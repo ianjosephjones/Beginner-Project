@@ -380,7 +380,6 @@
 
 .services__card {
 	margin: 1rem;
-	padding: 10px;
 	height: 535px;
 	width: 400px;
 	border-radius: 4px;
@@ -389,7 +388,7 @@
 			rgba(0, 0, 0, 0) 0%,
 			rgba(17, 17, 17, 0.6) 100%
 		),
-		url('/images/img1.jpg');
+		url('/Portfolio/Beginner Project/images/img1.jpg');
 	background-size: cover;
 	position: relative;
 	color: #fff;
@@ -401,7 +400,7 @@
 			rgba(0, 0, 0, 0) 0%,
 			rgba(17, 17, 17, 0.6) 100%
 		),
-		url('/images/img2.jpg');
+		url('/Portfolio/Beginner Project/images/img2.jpg');
 }
 
 .services h2 {
